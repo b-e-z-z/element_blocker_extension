@@ -8,6 +8,7 @@ The user can supply a list of css selectors for any given url and the extension 
 }
 
 for each selector provided.
+
 Each url or selector can also be temporarily disabled without the need to delete the rule.
 
 ### Project setup
